@@ -22,7 +22,6 @@
 ├── train.txt                         # 1500 局完整训练日志
 ├── DemonAttack.docx                  # 游戏参考文档
 ├── gymnasium.docx                    # Gymnasium 框架参考文档
-├── 附件2《综合实验设计》2实验报告格式.doc  # 实验报告模板
 └── README.md
 ```
 
