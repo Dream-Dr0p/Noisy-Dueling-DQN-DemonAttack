@@ -22,6 +22,7 @@
 ├── train.txt                         # 1500 局完整训练日志
 ├── DemonAttack.docx                  # 游戏参考文档
 ├── gymnasium.docx                    # Gymnasium 框架参考文档
+├── DemonAttack.mp4                   # 1500 局训练后一般视频
 └── README.md
 ```
 
