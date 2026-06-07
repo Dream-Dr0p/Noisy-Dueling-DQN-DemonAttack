@@ -20,9 +20,6 @@
 .
 ├── train.py                          # 核心代码：Noisy Dueling DQN 实现与训练/评估
 ├── train.txt                         # 1500 局完整训练日志
-├── 1000noisy.4.29.19.12.zip          # 1000局模型备份（含权重 .pth + 训练曲线图）
-├── 1500noisy.4.29.20.30.zip          # 1500局模型备份（含权重 .pth + 训练曲线图）
-├── DemonAttack.mp4                   # 训练后游戏演示视频（1500局）
 ├── DemonAttack.docx                  # 游戏参考文档
 ├── gymnasium.docx                    # Gymnasium 框架参考文档
 ├── 附件2《综合实验设计》2实验报告格式.doc  # 实验报告模板
