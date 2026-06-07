@@ -1,0 +1,51 @@
+使用设备: cuda
+A.L.E: Arcade Learning Environment (version 0.11.2+ecc1138)
+[Powered by Stella]
+开始训练 Noisy Dueling DQN，共 1000 episodes
+Ep    50 | Reward:    91.5 | Avg50:   307.8 | Loss: 3.8379 | Steps: 84680
+Ep   100 | Reward:   120.8 | Avg50:   169.5 | Loss: 5.4011 | Steps: 119523
+检查点保存至 noisy_demonattack.pth
+Ep   150 | Reward:   130.4 | Avg50:   205.5 | Loss: 4.7127 | Steps: 160977
+Ep   200 | Reward:   142.2 | Avg50:   145.6 | Loss: 4.8159 | Steps: 189457
+检查点保存至 noisy_demonattack.pth
+Ep   250 | Reward:   347.2 | Avg50:   195.1 | Loss: 6.0724 | Steps: 224407
+Ep   300 | Reward:   143.6 | Avg50:   224.6 | Loss: 6.0281 | Steps: 262291
+检查点保存至 noisy_demonattack.pth
+Ep   350 | Reward:   260.1 | Avg50:   249.4 | Loss: 5.1625 | Steps: 305982
+Ep   400 | Reward:   189.1 | Avg50:   385.6 | Loss: 7.7976 | Steps: 365115
+检查点保存至 noisy_demonattack.pth
+Ep   450 | Reward:   155.4 | Avg50:   576.9 | Loss: 13.4776 | Steps: 435983
+Ep   500 | Reward:   399.1 | Avg50:   607.7 | Loss: 18.1414 | Steps: 505038
+检查点保存至 noisy_demonattack.pth
+Ep   550 | Reward:  1017.9 | Avg50:   545.3 | Loss: 17.1171 | Steps: 567840
+Ep   600 | Reward:   278.1 | Avg50:   452.7 | Loss: 17.1809 | Steps: 627793
+检查点保存至 noisy_demonattack.pth
+Ep   650 | Reward:   226.2 | Avg50:   505.9 | Loss: 17.2344 | Steps: 688182
+Ep   700 | Reward:   412.9 | Avg50:   601.6 | Loss: 17.6099 | Steps: 770549
+检查点保存至 noisy_demonattack.pth
+Ep   750 | Reward:   154.9 | Avg50:   525.2 | Loss: 21.2031 | Steps: 833031
+Ep   800 | Reward:    79.2 | Avg50:   558.8 | Loss: 22.7826 | Steps: 894327
+检查点保存至 noisy_demonattack.pth
+Ep   850 | Reward:    42.9 | Avg50:   438.7 | Loss: 17.9282 | Steps: 950884
+Ep   900 | Reward:   244.3 | Avg50:   535.7 | Loss: 18.1811 | Steps: 1036292
+检查点保存至 noisy_demonattack.pth
+Ep   950 | Reward:  1643.0 | Avg50:   709.4 | Loss: 20.0359 | Steps: 1106330
+Ep  1000 | Reward:   397.1 | Avg50:   602.9 | Loss: 22.4021 | Steps: 1173447
+继续训练 Noisy Dueling DQN，共 1500 episodes
+Ep  1050 | Reward:   553.6 | Avg50:   424.4 | Loss: 14.7612 | Steps: 1225650
+Ep  1100 | Reward:  1394.8 | Avg50:   606.2 | Loss: 20.7895 | Steps: 1291951
+检查点保存至 noisy_demonattack.pth
+Ep  1150 | Reward:   310.7 | Avg50:   574.2 | Loss: 21.8282 | Steps: 1352589
+Ep  1200 | Reward:   179.6 | Avg50:   495.2 | Loss: 24.4000 | Steps: 1419565
+检查点保存至 noisy_demonattack.pth
+Ep  1250 | Reward:   165.0 | Avg50:   407.7 | Loss: 22.2944 | Steps: 1465703
+Ep  1300 | Reward:   143.2 | Avg50:   400.8 | Loss: 22.4839 | Steps: 1511347
+检查点保存至 noisy_demonattack.pth
+Ep  1350 | Reward:   434.1 | Avg50:   468.5 | Loss: 25.6636 | Steps: 1562468
+Ep  1400 | Reward:  1049.8 | Avg50:   843.1 | Loss: 28.1165 | Steps: 1665929
+检查点保存至 noisy_demonattack.pth
+Ep  1450 | Reward:   554.3 | Avg50:   601.5 | Loss: 29.2831 | Steps: 1734330
+Ep  1500 | Reward:   146.3 | Avg50:   553.9 | Loss: 32.9381 | Steps: 1809202
+检查点保存至 noisy_demonattack.pth
+检查点保存至 noisy_demonattack.pth
+训练曲线已保存为 noisy_rewards.png
